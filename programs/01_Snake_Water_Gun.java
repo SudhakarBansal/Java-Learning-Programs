@@ -3,7 +3,6 @@ package programs;
 import java.util.Scanner;
 import java.util.Random;
 public class Snake_Water_Gun {
-
     //mapping numbers with symbols...
     static void myMethod(int a) {
         switch (a) {
