@@ -11,7 +11,7 @@ public class Fibonacci_series {
     }
 
 
-    static void fibonacci_iterative(int x)       //fibonacci using Loops(iteration)
+    static void fibonacci_iterative(int x)       //fibonacci using Loops (iteration)
     {
         int prev = 0;
         int curr = 1;
