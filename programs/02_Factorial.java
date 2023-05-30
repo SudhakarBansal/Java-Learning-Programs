@@ -8,6 +8,7 @@ public class Factorial {
         else
             return(x * factorial_recursion(x-1));
     }
+    
     static int factorial_iterative(int x)       //Factorial using Loops(iteration)
     {
         if (x==0 || x==1)
